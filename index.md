@@ -1,6 +1,11 @@
 # Simon Schlieber
 ## Interesting Project Site ;)
-[twitter](https://www.twitter.com/schlieber)
+
+Needs to be used for birthdays
+
+[Simon Schlieber on twitter](https://www.twitter.com/schlieber)
+[Simon Schlieber Apple Music](https://music.apple.com/profile/schlieber)
+
 
 
 ## Welcome to GitHub Pages
